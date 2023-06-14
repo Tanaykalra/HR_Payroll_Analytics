@@ -1,8 +1,9 @@
 # HR_Payroll_Analytics
 
-you can easily track and analyze key metrics such as Employee SL% (Service Level Percentage), Presence%, and WFH% (Work From Home Percentage), empowering you to make data-driven decisions and optimize workforce management. 📈🔍
+You can easily track and analyze key metrics such as Employee SL% (Service Level Percentage), Presence%, and WFH% (Work From Home Percentage), empowering you to make data-driven decisions and optimize workforce management. 📈🔍
 
 Key Features:
+
 1️⃣ Automated Alerts: Stay on top of performance metrics with real-time notifications. The dashboard can send email alerts to key personnel whenever any of the percentages drop below a specified threshold. This enables proactive intervention to address potential issues promptly.
 
 2️⃣ Seamless Data Refresh: Never miss a beat! The dashboard automatically updates and gathers data whenever changes occur, whether it's daily, monthly, or even yearly. This ensures that you're always working with the most up-to-date information, providing accurate insights at any time.
