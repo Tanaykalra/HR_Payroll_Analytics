@@ -11,6 +11,7 @@ Key Features:
 3️⃣ Enhanced Security: Protect employee privacy and confidentiality with advanced access privileges. Implementing row level and object level security within Power BI ensures that employees can only access their own data, maintaining data integrity and safeguarding sensitive information.
 
 Use Cases:
+
 1️⃣ Work Preference Insights: Gain a comprehensive understanding of employee working preferences on different days of the week. With this knowledge, you can optimize scheduling, identify patterns, and align resources to maximize productivity.
 
 2️⃣ Event Planning and Team Building: Seamlessly plan company events, competitions, and team-building activities by leveraging the insights from the dashboard. By considering the maximum strength of employees available on specific days, you can ensure active participation and create a positive and engaging workplace culture.
